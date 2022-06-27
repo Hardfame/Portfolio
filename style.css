@@ -81,9 +81,9 @@ html {
 .section-1-btn {
   font-size: 1.7rem;
   font-weight: 700;
-  color: #333;
+  color: #001220;
   background-color: #fff;
-  border: 0.3rem solid #333;
+  border: 0.3rem solid #001220;
   padding: 0.5rem 1rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
@@ -109,7 +109,7 @@ html {
 .navbar-link {
   font-size: 1.7rem;
   font-weight: 600;
-  color: #333;
+  color: #001220;
   margin: 0 3rem;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
@@ -211,7 +211,7 @@ html {
 
 .service i {
   font-size: 10rem;
-  color: #888;
+  color: #001220;
   margin-bottom: 2rem;
   text-shadow: 0.1rem 0.1rem 0.5rem #555;
 }
@@ -278,7 +278,7 @@ html {
 .project-name {
   font-size: 3rem;
   font-weight: 700;
-  color: #333;
+  color: #001220;
   text-transform: capitalize;
 }
 
@@ -299,7 +299,7 @@ html {
 .project-link {
   font-size: 2rem;
   font-weight: 500;
-  color: #333;
+  color: #001220;
   letter-spacing: 0.1rem;
   border: 0.3rem solid #FBAE3C;
   padding: 0 1rem;
@@ -370,7 +370,7 @@ html {
 .section-5 {
   width: 100%;
   height: 30vh;
-  background-color: #222;
+  background-color: #001220;
   flex-direction: column;
 }
 
